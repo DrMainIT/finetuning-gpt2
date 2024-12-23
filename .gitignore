@@ -1,3 +1,7 @@
+#additional 
+models/
+test_trainer/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
